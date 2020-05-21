@@ -1,0 +1,19 @@
+{
+  "name": "icon-svg",
+  "version": "1.0.0",
+  "description": "基于 iconfont 封装的 svg  文件引用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoliancaijing/icon-svg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoliancaijing/icon-svg/issues"
+  },
+  "homepage": "https://github.com/xiaoliancaijing/icon-svg#readme"
+}
